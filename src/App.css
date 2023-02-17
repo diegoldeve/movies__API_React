@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+}.title{
+  text-align: center;
+  color:rgb(166, 72, 209);
+  font-size: 3rem;
+}
+body{
+  background-color: rgb(39, 39, 38);
+  color: white;
+}
